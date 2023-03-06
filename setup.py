@@ -20,7 +20,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://medium-multiply.readthedocs.io/",
-    author="Joffrey Bienvenu",
+    author="jkbmrz",
     author_email="example@email.com",
     license="MIT",
     classifiers=[
@@ -34,7 +34,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Operating System :: OS Independent"
     ],
-    packages=["medium_multiply"],
+    packages=["my_package"],
     include_package_data=True,
     install_requires=["numpy"]
 )
